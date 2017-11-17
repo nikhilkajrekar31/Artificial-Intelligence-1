@@ -1,0 +1,8 @@
+(operator
+ move
+ (params
+  (<n> Number) (<x> Board) (<y> Board))
+ (preconds
+  (on <n> <x>) (clear <y>) (neighbor <x> <y>))
+ (effects
+  (on <n> <y>) (clear <x>) (del on <n> <x>) (del clear <y>)))

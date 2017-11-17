@@ -1,0 +1,22 @@
+(11 Board)
+(12 Board)
+(13 Board)
+(21 Board)
+(22 Board)
+(23 Board)
+(31 Board)
+(32 Board)
+(33 Board)
+(1 Number)
+(2 Number)
+(3 Number)
+(4 Number)
+(5 Number)
+(6 Number)
+(7 Number)
+
+(preconds
+ (neighbor 11 12) (neighbor 11 21) (neighbor 12 11) (neighbor 12 13) (neighbor 12 22) (neighbor 13 12) (neighbor 13 23) (neighbor 21 11) (neighbor 21 22) (neighbor 21 31) (neighbor 22 21) (neighbor 22 12) (neighbor 22 23) (neighbor 22 32) (neighbor 23 22) (neighbor 23 33) (neighbor 23 13) (neighbor 31 21) (neighbor 31 32) (neighbor 32 31) (neighbor 32 33) (neighbor 32 22) (neighbor 33 32) (neighbor 33 23) (on 1 31) (on 2 32) (on 3 33) (on 4 21) (on 5 22) (on 6 23) (on 7 11) (clear 12) (clear 13))
+
+(effects
+ (on 1 31) (on 2 32) (on 3 33) (on 4 11) (on 5 22) (on 6 23) (on 7 13) (clear 12) (clear 21))
