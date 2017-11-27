@@ -1,0 +1,47 @@
+Observation sequence Q: CCLL
+Length of Q: 4
+
+After Observation Q1 = C
+
+P1(h1 | Q1) = 0.20000 
+P1(h2 | Q1) = 0.30000 
+P1(h3 | Q1) = 0.40000 
+P1(h4 | Q1) = 0.10000 
+P1(h5 | Q1) = 0.00000 
+
+Probability that the next candy we pick will be Cherry, given Q1: 0.65000 
+Probability that the next candy we pick will be Lime, given Q1: 0.35000 
+
+After Observation Q2 = C
+
+P2(h1 | Q2) = 0.30769 
+P2(h2 | Q2) = 0.34615 
+P2(h3 | Q2) = 0.30769 
+P2(h4 | Q2) = 0.03846 
+P2(h5 | Q2) = 0.00000 
+
+Probability that the next candy we pick will be Cherry, given Q2: 0.73077 
+Probability that the next candy we pick will be Lime, given Q2: 0.26923 
+
+After Observation Q3 = L
+
+P3(h1 | Q3) = 0.00000 
+P3(h2 | Q3) = 0.32143 
+P3(h3 | Q3) = 0.57143 
+P3(h4 | Q3) = 0.10714 
+P3(h5 | Q3) = 0.00000 
+
+Probability that the next candy we pick will be Cherry, given Q3: 0.55357 
+Probability that the next candy we pick will be Lime, given Q3: 0.44643 
+
+After Observation Q4 = L
+
+P4(h1 | Q4) = 0.00000 
+P4(h2 | Q4) = 0.18000 
+P4(h3 | Q4) = 0.64000 
+P4(h4 | Q4) = 0.18000 
+P4(h5 | Q4) = 0.00000 
+
+Probability that the next candy we pick will be Cherry, given Q4: 0.50000 
+Probability that the next candy we pick will be Lime, given Q4: 0.50000 
+
